@@ -23,7 +23,11 @@ main {
 
 section {
     margin-bottom: 2em;
-}
+}// script.js
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Agrinho - Do Campo à Cidade');
+});
+
 
 h2 {
     color: #333;
