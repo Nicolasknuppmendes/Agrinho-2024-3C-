@@ -23,7 +23,7 @@ main {
 
 section {
     margin-bottom: 2em;
-}// script.js
+} script.js
 document.addEventListener('DOMContentLoaded', () => {
     console.log('Agrinho - Do Campo à Cidade');
 ;
